@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">SHAHNIZ_1202150279_MODUL3</string>
+    <string name="title_placeholder">Title</string>
+    <string name="mineral_info_placeholder">Ini adalah air mineral merk</string>
+    <string name="mineral_detail">Air mineral dalam kemasan merupakan air yang mengandung mineral dan juga bahan-bahan larut lainya yang dikemas dalam banyak ukuran. Di Indonesia, bisnis air mineral kemasan ini sudah banyak sekali dilakukan oleh perusahaan-perusahaan air minum. Air Mineral memiliki banyak kandungan yang sangat berfungsi untuk menjaga kesehatan tubuh kita. Air mineral bisa dibilang sebagai sesuatu yang sederhana tetapi sangat berharga.</string>
+
+    <string-array name="mineral_titles">
+        <item>Aqua</item>
+        <item>Pristine</item>
+        <item>LeMinerale</item>
+        <item>Cleo</item>
+        <item>Club</item>
+        <item>Amidis</item>
+        <item>Evian</item>
+        <item>Equil</item>
+        <item>Ades</item>
+        <item>Nestle</item>
+        <item>Vit</item>
+    </string-array>
+
+    <string-array name="mineral_info">
+        <item>Ini adalah air mineral merk Aqua</item>
+        <item>Ini adalah air mineral merk Pristine</item>
+        <item>Ini adalah air mineral merk LeMinerale</item>
+        <item>Ini adalah air mineral merk Cleo</item>
+        <item>Ini adalah air mineral merk Club</item>
+        <item>Ini adalah air mineral merk Amidis</item>
+        <item>Ini adalah air mineral merk Evian</item>
+        <item>Ini adalah air mineral merk Equil</item>
+        <item>Ini adalah air mineral merk Ades</item>
+        <item>Ini adalah air mineral merk Nestle</item>
+        <item>Ini adalah air mineral merk Vit</item>
+    </string-array>
+
+    <array name="mineral_images">
+        <item>@drawable/aqua</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/club</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/ades</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/vit</item>
+    </array>
+</resources>
